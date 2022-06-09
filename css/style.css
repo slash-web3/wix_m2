@@ -683,116 +683,116 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
   height: 28px;
 }
 
-@media only screen and (max-width: 1783px) {
+@media only screen and (max-width: 1820px) {
   .header__wrapper{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 
   .content{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 
   .second__content{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 
   .mini_acticle{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 
   .slider1{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 
   .mini_acticle2{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 
   .slider2{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 
   .mini_acticle3{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 
   .simple__form{
-    max-width: 1646px;
+    max-width: 1683px;
   }
 }
 
-@media only screen and (max-width: 1646px) {
+@media only screen and (max-width: 1720px) {
   .header__wrapper{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 
   .content{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 
   .second__content{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 
   .mini_acticle{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 
   .slider1{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 
   .mini_acticle2{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 
   .slider2{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 
   .mini_acticle3{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 
   .simple__form{
-    max-width: 1509px;
+    max-width: 1583px;
   }
 }
 
-@media only screen and (max-width: 1509px) {
+@media only screen and (max-width: 1620px) {
   .header__wrapper{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 
   .content{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 
   .second__content{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 
   .mini_acticle{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 
   .slider1{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 
   .mini_acticle2{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 
   .slider2{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 
   .mini_acticle3{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 
   .simple__form{
-    max-width: 1372px;
+    max-width: 1483px;
   }
 }
