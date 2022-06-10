@@ -684,192 +684,49 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
   height: 28px;
 }
 
-@media only screen and (max-width: 1920px) {
+@media only screen and (min-width: 1224px) {
   .header__wrapper{
+    min-width: 696px;
     max-width: 1783px;
   }
 
   .content{
+    min-width: 696px;
     max-width: 1783px;
   }
 
   .second__content{
+    min-width: 696px;
     max-width: 1783px;
   }
 
   .mini_acticle{
+    min-width: 696px;
     max-width: 1783px;
   }
 
   .slider1{
+    min-width: 696px;
     max-width: 1783px;
   }
 
   .mini_acticle2{
+    min-width: 696px;
     max-width: 1783px;
   }
 
   .slider2{
+    min-width: 696px;
     max-width: 1783px;
   }
 
   .mini_acticle3{
+    min-width: 696px;
     max-width: 1783px;
   }
 
   .simple__form{
+    min-width: 696px;
     max-width: 1783px;
-  }
-}
-
-@media only screen and (max-width: 1600px) {
-  .header__wrapper{
-    max-width: 1463px;
-  }
-
-  .content{
-    max-width: 1463px;
-  }
-
-  .second__content{
-    max-width: 1463px;
-  }
-
-  .mini_acticle{
-    max-width: 1463px;
-  }
-
-  .slider1{
-    max-width: 1463px;
-  }
-
-  .mini_acticle2{
-    max-width: 1463px;
-  }
-
-  .slider2{
-    max-width: 1463px;;
-  }
-
-  .mini_acticle3{
-    max-width: 1463px;
-  }
-
-  .simple__form{
-    max-width: 1463px;
-  }
-}
-
-@media only screen and (max-width: 1530px) {
-  .header__wrapper{
-    max-width: 1393px;
-  }
-
-  .content{
-    max-width: 1393px;
-  }
-
-  .second__content{
-    max-width: 1393px;
-  }
-
-  .mini_acticle{
-    max-width: 1393px;
-  }
-
-  .slider1{
-    max-width: 1393px;
-  }
-
-  .mini_acticle2{
-    max-width: 1393px;
-  }
-
-  .slider2{
-    max-width: 1393px;
-  }
-
-  .mini_acticle3{
-    max-width: 1393px;
-  }
-
-  .simple__form{
-    max-width: 1393px;
-  }
-}
-
-@media only screen and (max-width: 1490px) {
-  .header__wrapper{
-    max-width: 1353px;
-  }
-
-  .content{
-    max-width: 1353px;
-  }
-
-  .second__content{
-    max-width: 1353px;
-  }
-
-  .mini_acticle{
-    max-width: 1353px;
-  }
-
-  .slider1{
-    max-width: 1353px;
-  }
-
-  .mini_acticle2{
-    max-width: 1353px;
-  }
-
-  .slider2{
-    max-width: 1353px;
-  }
-
-  .mini_acticle3{
-    max-width: 1353px;
-  }
-
-  .simple__form{
-    max-width: 1353px;
-  }
-}
-
-@media only screen and (max-width: 1366px) {
-  .header__wrapper{
-    max-width: 1229px;
-  }
-
-  .content{
-    max-width: 1229px;
-  }
-
-  .second__content{
-    max-width: 1229px;
-  }
-
-  .mini_acticle{
-    max-width: 1229px;
-  }
-
-  .slider1{
-    max-width: 1229px;
-  }
-
-  .mini_acticle2{
-    max-width: 1229px;
-  }
-
-  .slider2{
-    max-width: 1229px;
-  }
-
-  .mini_acticle3{
-    max-width: 1229px;
-  }
-
-  .simple__form{
-    max-width: 1229px;
   }
 }
