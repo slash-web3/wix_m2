@@ -798,6 +798,44 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
   }
 }
 
+@media only screen and (max-width: 1490px) {
+  .header__wrapper{
+    max-width: 1353px;
+  }
+
+  .content{
+    max-width: 1353px;
+  }
+
+  .second__content{
+    max-width: 1353px;
+  }
+
+  .mini_acticle{
+    max-width: 1353px;
+  }
+
+  .slider1{
+    max-width: 1353px;
+  }
+
+  .mini_acticle2{
+    max-width: 1353px;
+  }
+
+  .slider2{
+    max-width: 1353px;
+  }
+
+  .mini_acticle3{
+    max-width: 1353px;
+  }
+
+  .simple__form{
+    max-width: 1353px;
+  }
+}
+
 @media only screen and (max-width: 1366px) {
   .header__wrapper{
     max-width: 1229px;
