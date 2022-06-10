@@ -31,9 +31,10 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 }
 
 .header__wrapper{
-  max-width: 1783px;
+  /*max-width: 1783px;*/
   height: 116px;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
+  margin: 0 48.5px;
   display: flex;
   justify-content: space-between;
 }
@@ -155,9 +156,10 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 }
 
 .content{
-  max-width: 1783px;
+  /*max-width: 1783px;*/
   height: 617px;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
+  margin: 0 48.5px;
   background: rgb(207,58,255);
   background: linear-gradient(90deg, rgba(207,58,255,1) 0%, rgba(158,91,250,1) 30%, rgba(151,115,255,1) 69%, rgba(7,143,208,1) 100%);
   display: flex;
@@ -220,10 +222,11 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 }
 
 .second__content{
-  max-width: 1783px;
+  /*max-width: 1783px;*/
   height: 500px;
   display: flex;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
+  margin: 0 48.5px;
   margin-top: 60px;
 }
 
@@ -350,9 +353,10 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 }
 
 .slider1{
-  max-width: 1783px;
+  /*max-width: 1783px;*/
   height: 490px;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
+  margin: 0 48.5px;
   position: relative;
   margin-top: 90px;
 }
@@ -462,9 +466,10 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 }
 
 .slider2{
-  max-width: 1783px;
+  /*max-width: 1783px;*/
   height: 444px;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
+  margin: 0 48.5px;
   position: relative;
   margin-top: 60px;
 }
@@ -682,51 +687,4 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 .foot_bl_for_link a img{
   width: 28px;
   height: 28px;
-}
-
-@media only screen and (min-width: 1224px) {
-  .header__wrapper{
-    min-width: 696px;
-    max-width: 1783px;
-  }
-
-  .content{
-    min-width: 696px;
-    max-width: 1783px;
-  }
-
-  .second__content{
-    min-width: 696px;
-    max-width: 1783px;
-  }
-
-  .mini_acticle{
-    min-width: 696px;
-    max-width: 1783px;
-  }
-
-  .slider1{
-    min-width: 696px;
-    max-width: 1783px;
-  }
-
-  .mini_acticle2{
-    min-width: 696px;
-    max-width: 1783px;
-  }
-
-  .slider2{
-    min-width: 696px;
-    max-width: 1783px;
-  }
-
-  .mini_acticle3{
-    min-width: 696px;
-    max-width: 1783px;
-  }
-
-  .simple__form{
-    min-width: 696px;
-    max-width: 1783px;
-  }
 }
